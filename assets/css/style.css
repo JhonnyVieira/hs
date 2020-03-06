@@ -600,9 +600,9 @@ p {
 ===========================*/
 /*===== NAVBAR EIGHT =====*/
 .navbar-area {
-  background: -webkit-linear-gradient(left, #373435 0%, #373435 100%);
-  background: -o-linear-gradient(left, #373435 0%, #373435 100%);
-  background: linear-gradient(to right, #373435 0%, #373435 100%);
+  background: -webkit-linear-gradient(left, #070707 0%, #070707 100%);
+  background: -o-linear-gradient(left, #070707 0%, #070707 100%);
+  background: linear-gradient(to right, #070707 0%, #070707 100%);
   padding: 10px 0;
   position: absolute;
   top: 0;
@@ -615,7 +615,7 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s; }
   .navbar-area .navbar-brand img {
-    max-width: 150px; }
+    max-width: 60%; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .navbar-area {
       padding: 10px 0; } }
@@ -2199,7 +2199,7 @@ p {
 .footer-area .footer-widget {
   padding-top: 90px;
   padding-bottom: 120px; 
-  background-color: #373435;}
+  background-color: #070707;}
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .footer-area .footer-widget {
       padding-top: 70px;
@@ -2233,7 +2233,7 @@ p {
 .footer-area .footer-copyright {
   padding-top: 13px;
   padding-bottom: 23px; 
-  background-color: #373435;}
+  background-color: #070707;}
   .footer-area .footer-copyright .copyright .text {
     color: #ffffff; }
   .footer-area .footer-copyright .social li {
