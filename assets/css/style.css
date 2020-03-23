@@ -628,7 +628,7 @@ p {
     .navbar-area .navbar .navbar-toggler .toggler-icon {
       width: 30px;
       height: 2px;
-      background-color: #121212;
+      background-color: #ffffff;
       margin: 5px 0;
       display: block;
       position: relative;
@@ -948,10 +948,10 @@ p {
       color: #fff; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .navbar-area.navbar-transparent .navbar .navbar-nav .nav-item a {
-          color: #121212; } }
+          color: #ffffff; } }
       @media (max-width: 767px) {
         .navbar-area.navbar-transparent .navbar .navbar-nav .nav-item a {
-          color: #121212; } }
+          color: #ffffff; } }
       .navbar-area.navbar-transparent .navbar .navbar-nav .nav-item a::before {
         background-color: #59AF10; }
     .navbar-area.navbar-transparent .navbar .navbar-nav .nav-item.active a, .navbar-area.navbar-transparent .navbar .navbar-nav .nav-item:hover a {
@@ -963,13 +963,13 @@ p {
     .navbar-area.navbar-transparent.sticky {
       background-color: #fff; }
       .navbar-area.navbar-transparent.sticky .navbar .navbar-toggler .toggler-icon {
-        background-color: #121212; }
+        background-color: #ffffff; }
       .navbar-area.navbar-transparent.sticky .navbar .navbar-nav .nav-item a {
-        color: #121212; }
+        color: #ffffff; }
       .navbar-area.navbar-transparent.sticky .navbar .navbar-nav .nav-item.active a, .navbar-area.navbar-transparent.sticky .navbar .navbar-nav .nav-item:hover a {
         color: #59AF10; }
       .navbar-area.navbar-transparent.sticky .navbar .navbar-btn .menu-bar {
-        color: #121212; }
+        color: #ffffff; }
         .navbar-area.navbar-transparent.sticky .navbar .navbar-btn .menu-bar:hover {
           color: #59AF10; }
   .navbar-area.navbar-transparent-2 {
@@ -2198,7 +2198,7 @@ p {
 ===========================*/
 .footer-area .footer-widget {
   padding-top: 90px;
-  padding-bottom: 120px; 
+  padding-bottom: 20px; 
   background-color: #070707;}
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .footer-area .footer-widget {
