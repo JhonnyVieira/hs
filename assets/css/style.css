@@ -628,7 +628,7 @@ p {
     .navbar-area .navbar .navbar-toggler .toggler-icon {
       width: 30px;
       height: 2px;
-      background-color: #ffffff;
+      background-color: #59AF10;
       margin: 5px 0;
       display: block;
       position: relative;
@@ -692,7 +692,7 @@ p {
           line-height: 24px;
           font-weight: 700;
           padding: 11px 16px;
-          color: #fff;
+          color: #59af10;
           text-transform: uppercase;
           position: relative;
           border-radius: 5px;
@@ -934,7 +934,7 @@ p {
       font-size: 32px;
       position: relative;
       overflow: hidden;
-      color: #fff;
+      color: #59AF10;
       -webkit-transition: all 0.3s ease-out 0s;
       -moz-transition: all 0.3s ease-out 0s;
       -ms-transition: all 0.3s ease-out 0s;
@@ -975,7 +975,7 @@ p {
   .navbar-area.navbar-transparent-2 {
     background: transparent; }
     .navbar-area.navbar-transparent-2 .navbar .navbar-toggler .toggler-icon {
-      background-color: #fff; }
+      background-color: rgb(255, 0, 0); }
     .navbar-area.navbar-transparent-2 .navbar .navbar-nav .nav-item a {
       color: #121212; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
